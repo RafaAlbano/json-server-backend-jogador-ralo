@@ -1,4 +1,9 @@
 {
-  "times": [],
+  "times": [
+    {
+      "nome": "vvv",
+      "id": 1
+    }
+  ],
   "jogadores": []
 }
